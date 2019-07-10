@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo.iml" filepath="$PROJECT_DIR$/dubbo-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-annotation/dubbo-demo-annotation.iml" filepath="$PROJECT_DIR$/dubbo-demo-annotation/dubbo-demo-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-annotation/dubbo-demo-annotation-consumer/dubbo-demo-annotation-consumer.iml" filepath="$PROJECT_DIR$/dubbo-demo-annotation/dubbo-demo-annotation-consumer/dubbo-demo-annotation-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-annotation/dubbo-demo-annotation-provider/dubbo-demo-annotation-provider.iml" filepath="$PROJECT_DIR$/dubbo-demo-annotation/dubbo-demo-annotation-provider/dubbo-demo-annotation-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-api/dubbo-demo-api.iml" filepath="$PROJECT_DIR$/dubbo-demo-api/dubbo-demo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-api/dubbo-demo-api-consumer/dubbo-demo-api-consumer.iml" filepath="$PROJECT_DIR$/dubbo-demo-api/dubbo-demo-api-consumer/dubbo-demo-api-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-api/dubbo-demo-api-provider/dubbo-demo-api-provider.iml" filepath="$PROJECT_DIR$/dubbo-demo-api/dubbo-demo-api-provider/dubbo-demo-api-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-interface/dubbo-demo-interface.iml" filepath="$PROJECT_DIR$/dubbo-demo-interface/dubbo-demo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-xml/dubbo-demo-xml.iml" filepath="$PROJECT_DIR$/dubbo-demo-xml/dubbo-demo-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-xml/dubbo-demo-xml-consumer/dubbo-demo-xml-consumer.iml" filepath="$PROJECT_DIR$/dubbo-demo-xml/dubbo-demo-xml-consumer/dubbo-demo-xml-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-xml/dubbo-demo-xml-provider/dubbo-demo-xml-provider.iml" filepath="$PROJECT_DIR$/dubbo-demo-xml/dubbo-demo-xml-provider/dubbo-demo-xml-provider.iml" />
+    </modules>
+  </component>
+</project>

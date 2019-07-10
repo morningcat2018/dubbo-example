@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-demo-annotation-consumer" />
+        <module name="dubbo-demo-annotation-provider" />
+        <module name="dubbo-demo-api-consumer" />
+        <module name="dubbo-demo-api-provider" />
+        <module name="dubbo-demo-interface" />
+        <module name="dubbo-demo-xml-consumer" />
+        <module name="dubbo-demo-xml-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbo-demo" target="1.5" />
+      <module name="dubbo-demo-annotation" target="1.5" />
+      <module name="dubbo-demo-annotation-consumer" target="1.5" />
+      <module name="dubbo-demo-annotation-provider" target="1.5" />
+      <module name="dubbo-demo-api" target="1.5" />
+      <module name="dubbo-demo-api-consumer" target="1.5" />
+      <module name="dubbo-demo-api-provider" target="1.5" />
+      <module name="dubbo-demo-interface" target="1.5" />
+      <module name="dubbo-demo-xml" target="1.5" />
+      <module name="dubbo-demo-xml-consumer" target="1.5" />
+      <module name="dubbo-demo-xml-provider" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
