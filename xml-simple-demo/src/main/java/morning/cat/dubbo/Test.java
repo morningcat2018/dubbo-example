@@ -1,7 +1,7 @@
 package morning.cat.dubbo;
 
 
-public class Test {
 
+public class Test {
 
 }
